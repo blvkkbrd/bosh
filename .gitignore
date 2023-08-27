@@ -1,5 +1,5 @@
 final_query.sql
-scren/
+screen/
 data/
 failure-prediction-pjt.ipynb
 generate_keys.py
@@ -17,3 +17,4 @@ Untitled1.ipynb
 .ipynb_checkpoints/
 bosh/
 main.ipynb
+s
